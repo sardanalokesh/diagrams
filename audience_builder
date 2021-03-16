@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T05:49:59.385Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="ttr4k-QIIn9V0PvuEYQF" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-16T05:59:42.701Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="FoD_ucSXUUuMDCvnSUVS" version="14.4.8" type="github">
   <diagram id="ESDEY-QSzOgpSzSNaYjP" name="Page-1">
     <mxGraphModel dx="946" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -77,12 +77,12 @@
           <mxGeometry x="790" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r8o25yyv-WN-rSswm6NB-22" value="Bar Chart" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="420" width="80" height="60" as="geometry" />
+          <mxGeometry x="385" y="455" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r8o25yyv-WN-rSswm6NB-23" value="Total Cell" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="420" width="80" height="60" as="geometry" />
+          <mxGeometry x="490" y="455" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="r8o25yyv-WN-rSswm6NB-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="r8o25yyv-WN-rSswm6NB-26" target="r8o25yyv-WN-rSswm6NB-5">
+        <mxCell id="r8o25yyv-WN-rSswm6NB-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="r8o25yyv-WN-rSswm6NB-26" target="r8o25yyv-WN-rSswm6NB-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r8o25yyv-WN-rSswm6NB-35" value="tree" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="r8o25yyv-WN-rSswm6NB-34">
@@ -90,7 +90,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r8o25yyv-WN-rSswm6NB-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="r8o25yyv-WN-rSswm6NB-26" target="r8o25yyv-WN-rSswm6NB-4">
+        <mxCell id="r8o25yyv-WN-rSswm6NB-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="r8o25yyv-WN-rSswm6NB-26" target="r8o25yyv-WN-rSswm6NB-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1100" y="480" as="targetPoint" />
             <Array as="points">
@@ -102,6 +102,21 @@
         </mxCell>
         <mxCell id="r8o25yyv-WN-rSswm6NB-37" value="behaviors and countries" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="r8o25yyv-WN-rSswm6NB-36">
           <mxGeometry x="-0.0505" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r8o25yyv-WN-rSswm6NB-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=classic;startFill=1;fontSize=17;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r8o25yyv-WN-rSswm6NB-26" target="r8o25yyv-WN-rSswm6NB-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="930" y="280" />
+              <mxPoint x="930" y="270" />
+              <mxPoint x="650" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r8o25yyv-WN-rSswm6NB-49" value="reach" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="r8o25yyv-WN-rSswm6NB-48">
+          <mxGeometry x="-0.3475" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -158,6 +173,15 @@
         </mxCell>
         <mxCell id="r8o25yyv-WN-rSswm6NB-46" value="JEST + Enzyme" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="2180" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r8o25yyv-WN-rSswm6NB-50" value="Expressions {&lt;br&gt;&amp;nbsp; groups: Group[]&lt;br&gt;}" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="340" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="r8o25yyv-WN-rSswm6NB-51" value="Group {&lt;br&gt;&amp;nbsp; id: number;&lt;br&gt;&amp;nbsp; reach: number;&lt;br&gt;&amp;nbsp; segments: Segment[]&lt;br&gt;}" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="420" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="r8o25yyv-WN-rSswm6NB-52" value="Segment {&lt;br&gt;&amp;nbsp; id: number;&lt;br&gt;&amp;nbsp; name: string;&lt;br&gt;&amp;nbsp; reach: number;&lt;br&gt;}" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="515" width="160" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
